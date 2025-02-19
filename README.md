@@ -9,7 +9,11 @@ In the project directory, you can run:
 ## Run in CodeSandBox
 https://codesandbox.io/s/github/Jucian0/react-form-controlled
 
+##########################################################################################
+#Formulário criado utilizando React-Form, solicitado na disciplina de Fundamentos da Web.
 
-#Veja minha adaptação de formulário funcionando
+##Utilizando bootstrap.css para css de validações
+
+###Veja minha adaptação de formulário funcionando:
 https://krlkmk.csb.app/
 
