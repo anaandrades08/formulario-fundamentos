@@ -9,3 +9,7 @@ In the project directory, you can run:
 ## Run in CodeSandBox
 https://codesandbox.io/s/github/Jucian0/react-form-controlled
 
+
+#Veja minha adaptação de formulário funcionando
+https://krlkmk.csb.app/
+
